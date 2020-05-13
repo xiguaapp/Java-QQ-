@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.xiguaapp/com.xiguaapp.iml" filepath="$PROJECT_DIR$/com.xiguaapp/com.xiguaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xiguaapp.getSong/com.xiguaapp.getSong.iml" filepath="$PROJECT_DIR$/com.xiguaapp.getSong/com.xiguaapp.getSong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xiguaapp.getSongs/com.xiguaapp.getSongs.iml" filepath="$PROJECT_DIR$/com.xiguaapp.getSongs/com.xiguaapp.getSongs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp.iml" filepath="$PROJECT_DIR$/webapp.iml" />
+    </modules>
+  </component>
+</project>
